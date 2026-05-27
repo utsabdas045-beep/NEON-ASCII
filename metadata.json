@@ -1,0 +1,11 @@
+{
+  "name": "NEON//ASCII",
+  "description": "Real-time cybernetic ASCII webcam processor with live music synchronization, interactive audio HUD telemetry, and immersive CRT scanline visual engines.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
